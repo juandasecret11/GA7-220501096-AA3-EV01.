@@ -1,5 +1,4 @@
-
-# TASKFLOW - Evidencia EV02
+# TASKFLOW - Evidencia GA7-220501096-AA3-EV01
 
 ## Descripción
 Aplicación web para gestionar tareas mediante Java Servlets, JSP y MySQL.
@@ -30,7 +29,6 @@ Tabla: tasks
 3. Configurar la variable de entorno DB_PASSWORD.
 4. Ejecutar mvn package.
 5. Desplegar el archivo WAR en Apache Tomcat.
-6. Abrir http://localhost:8080/taskflow-servlets/tasks
 
 ## Repositorio
-https://github.com/juandasecret11/TASKFLOW_AA2_EV02
+https://github.com/juandasecret11/GA7-220501096-AA3-EV01
